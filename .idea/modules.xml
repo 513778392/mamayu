@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beauty/beauty.iml" filepath="$PROJECT_DIR$/beauty/beauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpush/jpush.iml" filepath="$PROJECT_DIR$/jpush/jpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mamayu.iml" filepath="$PROJECT_DIR$/mamayu.iml" />
+      <module fileurl="file://E:\xuan\mamayu\mamayu.iml" filepath="E:\xuan\mamayu\mamayu.iml" group="mamayu" />
+      <module fileurl="file://$PROJECT_DIR$/sharedsdk/sharedsdk.iml" filepath="$PROJECT_DIR$/sharedsdk/sharedsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/video/video.iml" filepath="$PROJECT_DIR$/video/video.iml" />
+    </modules>
+  </component>
+</project>

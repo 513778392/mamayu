@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    >
+ <LinearLayout
+
+     android:gravity="center"
+     android:layout_width="match_parent"
+     android:layout_height="100dp"
+     android:orientation="horizontal">
+     <TextView
+         android:textColor="@color/white"
+         android:layout_marginTop="5dp"
+         android:gravity="center"
+         android:background="@drawable/textview_border"
+         android:text="30元"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         >
+     </TextView>
+     <TextView
+         android:textColor="@color/white"
+         android:layout_marginTop="5dp"
+         android:layout_marginLeft="20dp"
+         android:gravity="center"
+         android:background="@drawable/textview_border"
+         android:text="50元"
+         android:layout_width="100dp"
+         android:layout_height="50dp">
+     </TextView>
+     <TextView
+         android:textColor="@color/white"
+         android:layout_marginTop="5dp"
+         android:layout_marginLeft="20dp"
+         android:gravity="center"
+         android:background="@drawable/textview_border"
+         android:text="50元"
+         android:layout_width="100dp"
+         android:layout_height="50dp">
+     </TextView>
+ </LinearLayout>
+  <Button
+      android:textColor="@color/white"
+      android:background="@drawable/textview_border"
+      android:layout_marginTop="20dp"
+      android:layout_width="200dp"
+      android:layout_height="wrap_content"
+      android:text="提现">
+  </Button>
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="500dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/textview_border"
+        android:padding="20dp"
+        android:text="规则："
+        android:textColor="@color/white"></TextView>
+</LinearLayout>
